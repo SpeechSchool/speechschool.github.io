@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spectrograms on Speech School</title>
-    <link>https://speechschool.github.io/speechschool.tech/spectrograms/</link>
+    <link>https://speechschool.github.io/spectrograms/</link>
     <description>Recent content in Spectrograms on Speech School</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/speechschool.tech/spectrograms/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/spectrograms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frequencies</title>
-      <link>https://speechschool.github.io/speechschool.tech/spectrograms/harmonics/</link>
+      <link>https://speechschool.github.io/spectrograms/harmonics/</link>
       <pubDate>Sat, 15 May 2021 11:23:50 +1200</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/spectrograms/harmonics/</guid>
+      <guid>https://speechschool.github.io/spectrograms/harmonics/</guid>
       <description>A spectrogram visualizes how the frequencies of a sound change over time.
 Time is on the x-axis and frequency is on the y-axis. The color of a pixel shows the magnitude of the frequency for the corresponding time inteval. Frequencies with the largest magnitudes are colored white, while those with the lowest magnitudes are colored black.
-   Human Voice    A Spectrogram of the human voice will have equally spaced stripes.</description>
+  human Voice      Human Voice    A Spectrogram of the human voice will have equally spaced stripes.</description>
     </item>
     
     <item>
       <title>Mathematics</title>
-      <link>https://speechschool.github.io/speechschool.tech/spectrograms/mathematics/</link>
+      <link>https://speechschool.github.io/spectrograms/mathematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/spectrograms/mathematics/</guid>
+      <guid>https://speechschool.github.io/spectrograms/mathematics/</guid>
       <description>Sound is the result of air pressure varying over time. We can represent a sound by a graph with time on the x-axis and amplitude of the air pressure variation on the y-axis, which we call a signal.
   Air pressure vs time   This time based representation of sound is convenient for recording and playing back sound, but we can have little idea of what such a signal will sound like.</description>
     </item>

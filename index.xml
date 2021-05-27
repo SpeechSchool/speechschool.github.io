@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speech School</title>
-    <link>https://speechschool.github.io/speechschool.tech/</link>
+    <link>https://speechschool.github.io/</link>
     <description>Recent content on Speech School</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/speechschool.tech/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Source-Filter Model</title>
-      <link>https://speechschool.github.io/speechschool.tech/physiology/source-filter/</link>
+      <link>https://speechschool.github.io/physiology/source-filter/</link>
       <pubDate>Fri, 14 May 2021 16:02:07 +1200</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/physiology/source-filter/</guid>
+      <guid>https://speechschool.github.io/physiology/source-filter/</guid>
       <description>The vocal cords produce a sound at the bottom of the throat. However, this is not what we hear coming out of the mouth. The shape of the vocal track filters out certian frequencies of the sound produced by the vocal cords, while letting other frequiencies pass undampened (those corresponding to standing waves).
 Thus when diagnosing our voices, we must determine whether the problem is with the source (our vocal cords) or the filter (the shape of the vocal tract).</description>
     </item>
     
     <item>
       <title>Wood vowel model</title>
-      <link>https://speechschool.github.io/speechschool.tech/Phonetics/wood-vowel-model/</link>
+      <link>https://speechschool.github.io/Phonetics/wood-vowel-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/Phonetics/wood-vowel-model/</guid>
+      <guid>https://speechschool.github.io/Phonetics/wood-vowel-model/</guid>
       <description>Dimensions  Constriction Location Tense-Lax Open-Closed Round-Spread       As explained in Vocal Tract vowels are produced by the shape of the vocal tract. To describe the shape of the vocal tract of a given vowel we will use Sidney Wood&amp;rsquo;s vowel model.
 Dimensions    Constriction Location    The most fundamental dimension of the wood vowel model is location where the vocal tract is constricted.</description>
     </item>
     
     <item>
       <title>Frequencies</title>
-      <link>https://speechschool.github.io/speechschool.tech/spectrograms/harmonics/</link>
+      <link>https://speechschool.github.io/spectrograms/harmonics/</link>
       <pubDate>Sat, 15 May 2021 11:23:50 +1200</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/spectrograms/harmonics/</guid>
+      <guid>https://speechschool.github.io/spectrograms/harmonics/</guid>
       <description>A spectrogram visualizes how the frequencies of a sound change over time.
 Time is on the x-axis and frequency is on the y-axis. The color of a pixel shows the magnitude of the frequency for the corresponding time inteval. Frequencies with the largest magnitudes are colored white, while those with the lowest magnitudes are colored black.
-   Human Voice    A Spectrogram of the human voice will have equally spaced stripes.</description>
+  human Voice      Human Voice    A Spectrogram of the human voice will have equally spaced stripes.</description>
     </item>
     
     <item>
       <title>IPA</title>
-      <link>https://speechschool.github.io/speechschool.tech/Phonetics/IPA/</link>
+      <link>https://speechschool.github.io/Phonetics/IPA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/Phonetics/IPA/</guid>
+      <guid>https://speechschool.github.io/Phonetics/IPA/</guid>
       <description>Historical Vowel Model Wood Vowel Model  Diphthongs   Constants  Stop Constants Nasal Stop Fricatives Affricates Approximant Lateral approximant Voiceless Vowel   Complete Table     There are 19 vowels in the English language but only six letters are used to represent them. This means there is a many-to-one correspondence between vowels and letters, that is different vowels correspond to the same letter.</description>
     </item>
     
     <item>
       <title>Mathematics</title>
-      <link>https://speechschool.github.io/speechschool.tech/spectrograms/mathematics/</link>
+      <link>https://speechschool.github.io/spectrograms/mathematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/spectrograms/mathematics/</guid>
+      <guid>https://speechschool.github.io/spectrograms/mathematics/</guid>
       <description>Sound is the result of air pressure varying over time. We can represent a sound by a graph with time on the x-axis and amplitude of the air pressure variation on the y-axis, which we call a signal.
   Air pressure vs time   This time based representation of sound is convenient for recording and playing back sound, but we can have little idea of what such a signal will sound like.</description>
     </item>
     
     <item>
       <title>Phonation</title>
-      <link>https://speechschool.github.io/speechschool.tech/physiology/phonation/</link>
+      <link>https://speechschool.github.io/physiology/phonation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/physiology/phonation/</guid>
+      <guid>https://speechschool.github.io/physiology/phonation/</guid>
       <description>&lt;div class=&#34;gdoc-toc gdoc-toc__level--3&#34;&gt;&lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;
@@ -80,107 +80,107 @@ Time is on the x-axis and frequency is on the y-axis. The color of a pixel shows
     
     <item>
       <title>Reading Spectrograms</title>
-      <link>https://speechschool.github.io/speechschool.tech/Phonetics/reading-spectrograms/</link>
+      <link>https://speechschool.github.io/Phonetics/reading-spectrograms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/Phonetics/reading-spectrograms/</guid>
+      <guid>https://speechschool.github.io/Phonetics/reading-spectrograms/</guid>
       <description>Vowels  Palatal and Velar Vowels i Vowel ɛ Vowel u Vowel   Pharyngeal Vowels  ɔ Vowel ɑ Vowel æ Vowel   ɜ Vowel Diphthongs Constants  Voiceless Fricatives Voiceless Stop Constants + Voiceless Affricates Nasals + Voiced Fricatives Approximants       Most of the work of reading live spectrograms is done by knowing what sequence of phonemes should appear by listening to the audio.</description>
     </item>
     
     <item>
       <title>Vowel Shaping</title>
-      <link>https://speechschool.github.io/speechschool.tech/physiology/vowel-shaping/</link>
+      <link>https://speechschool.github.io/physiology/vowel-shaping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/physiology/vowel-shaping/</guid>
+      <guid>https://speechschool.github.io/physiology/vowel-shaping/</guid>
       <description>Formants The crisp vowel class     The pitch harmonics produced by the vocal cords are not the same as those that leave the mouth. The shape of vocal tract will filter regions of the harmonics, to produce the sound of a vowel. By constricting the vocal tract at different positions, different regions of the harmonics are filtered, producing different vowels.
   Fleece vowel     Strut vowel   Formants    In the above pictures, we can see there are two centers of acoustic energy.</description>
     </item>
     
     <item>
       <title>Dark vs Bright</title>
-      <link>https://speechschool.github.io/speechschool.tech/pedagogy/dark-vs-bright/</link>
+      <link>https://speechschool.github.io/pedagogy/dark-vs-bright/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/dark-vs-bright/</guid>
+      <guid>https://speechschool.github.io/pedagogy/dark-vs-bright/</guid>
       <description>Phonation    Most harmonic sounds have harmonics that decrease energy from the first harmonic. However, when belting one can phonate such that initial the harmonics have increating energy such that the first format disappears.
   &amp;#618; (Kit) Vowel with missing first formant   Similarly one can phonate such the harmonics decrease verv rapidly. The difference between these is vocal cord tension beleive. The trick is to vary the pitch and limit the loudness independantly of vocal cord tension.</description>
     </item>
     
     <item>
       <title>Live Spectrograms</title>
-      <link>https://speechschool.github.io/speechschool.tech/methodology/spectrogram/</link>
+      <link>https://speechschool.github.io/methodology/spectrogram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/methodology/spectrogram/</guid>
+      <guid>https://speechschool.github.io/methodology/spectrogram/</guid>
       <description>Spectrograms allow us to see the differences between our voice and others that we cannot hear. If we only had our hearing for feedback we would be fumbling around in the dark while practicing and may never get anywhere. But with spectrograms we can had as systematic method we can execute that doesn&amp;rsquo;t rely on us being able to hear the subtlties of our voice.
 Pitch    The pitch harmonic overlays will allow you to use sight to see if you are singing on pitch rather than your hearing.</description>
     </item>
     
     <item>
       <title>Recordings</title>
-      <link>https://speechschool.github.io/speechschool.tech/methodology/recordings/</link>
+      <link>https://speechschool.github.io/methodology/recordings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/methodology/recordings/</guid>
+      <guid>https://speechschool.github.io/methodology/recordings/</guid>
       <description>The trouble with spectrograms is that some qualities of speech we perceive are extremely subtle. For example we probably have evolved to read peoples emotional state from their voice. However, one could not read this from a spectrogram. Partly this is because the spectrogram loses information, and partly because our perception of sound is far more detailed in these specialized domains than our visual perceiption.
 We will need to listen back to recordings of ourselves, because we do not hear ourselves properly when speaking.</description>
     </item>
     
     <item>
       <title>Falsetto</title>
-      <link>https://speechschool.github.io/speechschool.tech/pedagogy/falsetto/</link>
+      <link>https://speechschool.github.io/pedagogy/falsetto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/falsetto/</guid>
+      <guid>https://speechschool.github.io/pedagogy/falsetto/</guid>
       <description>In falsetto the vocal cord ligaments remain unmoved and only the mucosa layer bounces. To produce a clean falsetto the entire vocal cord has to come into contact. But this is difficult and untraind falsetto singers leave a gap in the middle wher air continuously escapes.
        </description>
     </item>
     
     <item>
       <title>Accent Checker</title>
-      <link>https://speechschool.github.io/speechschool.tech/methodology/accent-checker/</link>
+      <link>https://speechschool.github.io/methodology/accent-checker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/methodology/accent-checker/</guid>
+      <guid>https://speechschool.github.io/methodology/accent-checker/</guid>
       <description>In a speed typing test, one types out a text and the computer can stop you preciding to the next word if you make a mistake. Just so I would like to make a speech recognition engine that will not proceed to the next word as you read aloud the text.</description>
     </item>
     
     <item>
       <title>Head Voice</title>
-      <link>https://speechschool.github.io/speechschool.tech/pedagogy/head-voice/</link>
+      <link>https://speechschool.github.io/pedagogy/head-voice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/head-voice/</guid>
+      <guid>https://speechschool.github.io/pedagogy/head-voice/</guid>
       <description>Cheast voice is where the vocal cords make the same motion as they do in normal speaking. Likewise with falsetto, the vocal cords make a different motion in head voice leading to a different sound being produced. What this motion is wikipedia doesn&amp;rsquo;t say. However, it results in a sound where more energy is distributed to the higher harmonics compared to headvoice.
   </description>
     </item>
     
     <item>
       <title>Breathy Voice</title>
-      <link>https://speechschool.github.io/speechschool.tech/pedagogy/breathy-voice/</link>
+      <link>https://speechschool.github.io/pedagogy/breathy-voice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/breathy-voice/</guid>
+      <guid>https://speechschool.github.io/pedagogy/breathy-voice/</guid>
       <description>In breathy voice the vocal cords are held further apart with lower tension than normal. Breathy voice is when the vocal cords do not make full closure as they their mobile ends are not brought fully together. This allows more air to escape and can be heard as a softer sound, with more random noise.</description>
     </item>
     
     <item>
       <title>Belting</title>
-      <link>https://speechschool.github.io/speechschool.tech/pedagogy/belting/</link>
+      <link>https://speechschool.github.io/pedagogy/belting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/belting/</guid>
+      <guid>https://speechschool.github.io/pedagogy/belting/</guid>
       <description>Belting is where one carries the chest voice above the natural transition to the head voice. However, this nescessitates singing with intensity. For an example, look to Brendon Urie who belts most of his songs.
 Hack    Thinking of the pajoritive &amp;ldquo;Woo Girls&amp;rdquo;, you can get an idea of the upper limit of your pitch for your chest voice by shouting WOO! The pitch should peek in the middle of the woo.</description>
     </item>
     
     <item>
       <title>Desk</title>
-      <link>https://speechschool.github.io/speechschool.tech/equipment/desk/</link>
+      <link>https://speechschool.github.io/equipment/desk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/equipment/desk/</guid>
+      <guid>https://speechschool.github.io/equipment/desk/</guid>
       <description>You will need to stand when you sing, and should be standing when practicing speaking.
 Standing Desk    You will need a standing desk. I have a makeshift standing desk made out of a small writing desk that stands on a table.
 Physically shifting a computer monitor between your sitting and standing desk is tiresome. I recomend buying a second a second computer monitor.
@@ -189,19 +189,19 @@ Underdesk Treadmill    I practice singing while walking on a treadmill.</descrip
     
     <item>
       <title>Hello Blog</title>
-      <link>https://speechschool.github.io/speechschool.tech/blog/hello_blog/</link>
+      <link>https://speechschool.github.io/blog/hello_blog/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/blog/hello_blog/</guid>
+      <guid>https://speechschool.github.io/blog/hello_blog/</guid>
       <description>I thought I would post my random thoughts here but haven&amp;rsquo;t been doing so.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://speechschool.github.io/speechschool.tech/_includes/include-page/</link>
+      <link>https://speechschool.github.io/_includes/include-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/_includes/include-page/</guid>
+      <guid>https://speechschool.github.io/_includes/include-page/</guid>
       <description>Example page include
 Example Shortcode
 Shortcode used in an include page.     Head 1 Head 2 Head 3     1 2 3    </description>
@@ -209,30 +209,30 @@ Shortcode used in an include page.     Head 1 Head 2 Head 3     1 2 3    </descr
     
     <item>
       <title>Microphone</title>
-      <link>https://speechschool.github.io/speechschool.tech/equipment/microphone/</link>
+      <link>https://speechschool.github.io/equipment/microphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/equipment/microphone/</guid>
+      <guid>https://speechschool.github.io/equipment/microphone/</guid>
       <description>Microphone    Proximity Effect    For most microphones as you move the sound source closer the lower frequiences will be amplified, the recorded sound will become darker. This is unsuitable for our purposes as we want our microphone recording to be comparable to professionally recorded audio.
 Condenser microphones have less proximity effect. Omnidirectional microphones have lower proxmity effect. Omnidirectional condenser microphones have virtually no proximity effect.</description>
     </item>
     
     <item>
       <title>Timbre</title>
-      <link>https://speechschool.github.io/speechschool.tech/pedagogy/timbre/</link>
+      <link>https://speechschool.github.io/pedagogy/timbre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/timbre/</guid>
+      <guid>https://speechschool.github.io/pedagogy/timbre/</guid>
       <description>Timbre describes the quality of the sound source which is best visualized by the shape of the spectral slice. Good timbre will have a specral slice where the harmonics are balance in size, smooth, and are shaped nicely.
   Slice of the i (Fleece) vowel below       </description>
     </item>
     
     <item>
       <title>Transcription Checker</title>
-      <link>https://speechschool.github.io/speechschool.tech/methodology/transcription-checker/</link>
+      <link>https://speechschool.github.io/methodology/transcription-checker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/methodology/transcription-checker/</guid>
+      <guid>https://speechschool.github.io/methodology/transcription-checker/</guid>
       <description>Phoneme segmentation is the ability to derive the correct sequence of sounds that make up a word. It is a critical specialized ability to develop if you want to be considered intelligent. Many high IQ people will develop it naturally and it allows them to distinguish themselves from the rest.
 However, those with a non-verbal IQ tilt will need help to develope phonological awareness.
 We will train phoneme segmentation we by typing out a phonetic transcription of a text, with the computer checking accuracy as in a speed typing test.</description>

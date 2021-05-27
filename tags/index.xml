@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Speech School</title>
-    <link>https://speechschool.github.io/speechschool.tech/tags/</link>
+    <link>https://speechschool.github.io/tags/</link>
     <description>Recent content in Tags on Speech School</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/speechschool.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

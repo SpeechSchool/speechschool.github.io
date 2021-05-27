@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Physiology on Speech School</title>
-    <link>https://speechschool.github.io/speechschool.tech/physiology/</link>
+    <link>https://speechschool.github.io/physiology/</link>
     <description>Recent content in Physiology on Speech School</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/speechschool.tech/physiology/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/physiology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Source-Filter Model</title>
-      <link>https://speechschool.github.io/speechschool.tech/physiology/source-filter/</link>
+      <link>https://speechschool.github.io/physiology/source-filter/</link>
       <pubDate>Fri, 14 May 2021 16:02:07 +1200</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/physiology/source-filter/</guid>
+      <guid>https://speechschool.github.io/physiology/source-filter/</guid>
       <description>The vocal cords produce a sound at the bottom of the throat. However, this is not what we hear coming out of the mouth. The shape of the vocal track filters out certian frequencies of the sound produced by the vocal cords, while letting other frequiencies pass undampened (those corresponding to standing waves).
 Thus when diagnosing our voices, we must determine whether the problem is with the source (our vocal cords) or the filter (the shape of the vocal tract).</description>
     </item>
     
     <item>
       <title>Phonation</title>
-      <link>https://speechschool.github.io/speechschool.tech/physiology/phonation/</link>
+      <link>https://speechschool.github.io/physiology/phonation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/physiology/phonation/</guid>
+      <guid>https://speechschool.github.io/physiology/phonation/</guid>
       <description>&lt;div class=&#34;gdoc-toc gdoc-toc__level--3&#34;&gt;&lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;
@@ -40,10 +40,10 @@ Thus when diagnosing our voices, we must determine whether the problem is with t
     
     <item>
       <title>Vowel Shaping</title>
-      <link>https://speechschool.github.io/speechschool.tech/physiology/vowel-shaping/</link>
+      <link>https://speechschool.github.io/physiology/vowel-shaping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/speechschool.tech/physiology/vowel-shaping/</guid>
+      <guid>https://speechschool.github.io/physiology/vowel-shaping/</guid>
       <description>Formants The crisp vowel class     The pitch harmonics produced by the vocal cords are not the same as those that leave the mouth. The shape of vocal tract will filter regions of the harmonics, to produce the sound of a vowel. By constricting the vocal tract at different positions, different regions of the harmonics are filtered, producing different vowels.
   Fleece vowel     Strut vowel   Formants    In the above pictures, we can see there are two centers of acoustic energy.</description>
     </item>
