@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQ on Speech School</title>
-    <link>https://speechschool.github.io/FAQ/</link>
+    <link>https://speechschool.tech/FAQ/</link>
     <description>Recent content in FAQ on Speech School</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 20 May 2021 16:21:16 +1200</lastBuildDate><atom:link href="https://speechschool.github.io/FAQ/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 May 2021 16:21:16 +1200</lastBuildDate><atom:link href="https://speechschool.tech/FAQ/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
