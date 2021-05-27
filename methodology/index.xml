@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methodology on Speech School</title>
+    <link>https://speechschool.github.io/methodology/</link>
+    <description>Recent content in Methodology on Speech School</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live Spectrograms</title>
+      <link>https://speechschool.github.io/methodology/spectrogram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://speechschool.github.io/methodology/spectrogram/</guid>
+      <description>Spectrograms allow us to see the differences between our voice and others that we cannot hear. If we only had our hearing for feedback we would be fumbling around in the dark while practicing and may never get anywhere. But with spectrograms we can had as systematic method we can execute that doesn&amp;rsquo;t rely on us being able to hear the subtlties of our voice.
+Pitch    The pitch harmonic overlays will allow you to use sight to see if you are singing on pitch rather than your hearing.</description>
+    </item>
+    
+    <item>
+      <title>Recordings</title>
+      <link>https://speechschool.github.io/methodology/recordings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://speechschool.github.io/methodology/recordings/</guid>
+      <description>The trouble with spectrograms is that some qualities of speech we perceive are extremely subtle. For example we probably have evolved to read peoples emotional state from their voice. However, one could not read this from a spectrogram. Partly this is because the spectrogram loses information, and partly because our perception of sound is far more detailed in these specialized domains than our visual perceiption.
+We will need to listen back to recordings of ourselves, because we do not hear ourselves properly when speaking.</description>
+    </item>
+    
+    <item>
+      <title>Accent Checker</title>
+      <link>https://speechschool.github.io/methodology/accent-checker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://speechschool.github.io/methodology/accent-checker/</guid>
+      <description>In a speed typing test, one types out a text and the computer can stop you preciding to the next word if you make a mistake. Just so I would like to make a speech recognition engine that will not proceed to the next word as you read aloud the text.</description>
+    </item>
+    
+    <item>
+      <title>Transcription Checker</title>
+      <link>https://speechschool.github.io/methodology/transcription-checker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://speechschool.github.io/methodology/transcription-checker/</guid>
+      <description>Phoneme segmentation is the ability to derive the correct sequence of sounds that make up a word. It is a critical specialized ability to develop if you want to be considered intelligent. Many high IQ people will develop it naturally and it allows them to distinguish themselves from the rest.
+However, those with a non-verbal IQ tilt will need help to develope phonological awareness.
+We will train phoneme segmentation we by typing out a phonetic transcription of a text, with the computer checking accuracy as in a speed typing test.</description>
+    </item>
+    
+  </channel>
+</rss>
