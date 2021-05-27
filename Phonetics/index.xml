@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phonetics on Speech School</title>
-    <link>https://speechschool.github.io/Phonetics/</link>
+    <link>https://speechschool.github.io/speechschool.tech/Phonetics/</link>
     <description>Recent content in Phonetics on Speech School</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/Phonetics/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/speechschool.tech/Phonetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wood vowel model</title>
-      <link>https://speechschool.github.io/Phonetics/wood-vowel-model/</link>
+      <link>https://speechschool.github.io/speechschool.tech/Phonetics/wood-vowel-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/Phonetics/wood-vowel-model/</guid>
+      <guid>https://speechschool.github.io/speechschool.tech/Phonetics/wood-vowel-model/</guid>
       <description>Dimensions  Constriction Location Tense-Lax Open-Closed Round-Spread       As explained in Vocal Tract vowels are produced by the shape of the vocal tract. To describe the shape of the vocal tract of a given vowel we will use Sidney Wood&amp;rsquo;s vowel model.
 Dimensions    Constriction Location    The most fundamental dimension of the wood vowel model is location where the vocal tract is constricted.</description>
     </item>
     
     <item>
       <title>IPA</title>
-      <link>https://speechschool.github.io/Phonetics/IPA/</link>
+      <link>https://speechschool.github.io/speechschool.tech/Phonetics/IPA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/Phonetics/IPA/</guid>
+      <guid>https://speechschool.github.io/speechschool.tech/Phonetics/IPA/</guid>
       <description>Historical Vowel Model Wood Vowel Model  Diphthongs   Constants  Stop Constants Nasal Stop Fricatives Affricates Approximant Lateral approximant Voiceless Vowel   Complete Table     There are 19 vowels in the English language but only six letters are used to represent them. This means there is a many-to-one correspondence between vowels and letters, that is different vowels correspond to the same letter.</description>
     </item>
     
     <item>
       <title>Reading Spectrograms</title>
-      <link>https://speechschool.github.io/Phonetics/reading-spectrograms/</link>
+      <link>https://speechschool.github.io/speechschool.tech/Phonetics/reading-spectrograms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/Phonetics/reading-spectrograms/</guid>
+      <guid>https://speechschool.github.io/speechschool.tech/Phonetics/reading-spectrograms/</guid>
       <description>Vowels  Palatal and Velar Vowels i Vowel ɛ Vowel u Vowel   Pharyngeal Vowels  ɔ Vowel ɑ Vowel æ Vowel   ɜ Vowel Diphthongs Constants  Voiceless Fricatives Voiceless Stop Constants + Voiceless Affricates Nasals + Voiced Fricatives Approximants       Most of the work of reading live spectrograms is done by knowing what sequence of phonemes should appear by listening to the audio.</description>
     </item>
     

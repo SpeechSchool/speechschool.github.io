@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pedagogical Terms on Speech School</title>
-    <link>https://speechschool.github.io/pedagogy/</link>
+    <link>https://speechschool.github.io/speechschool.tech/pedagogy/</link>
     <description>Recent content in Pedagogical Terms on Speech School</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/pedagogy/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://speechschool.github.io/speechschool.tech/pedagogy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dark vs Bright</title>
-      <link>https://speechschool.github.io/pedagogy/dark-vs-bright/</link>
+      <link>https://speechschool.github.io/speechschool.tech/pedagogy/dark-vs-bright/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/pedagogy/dark-vs-bright/</guid>
+      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/dark-vs-bright/</guid>
       <description>Phonation    Most harmonic sounds have harmonics that decrease energy from the first harmonic. However, when belting one can phonate such that initial the harmonics have increating energy such that the first format disappears.
   &amp;#618; (Kit) Vowel with missing first formant   Similarly one can phonate such the harmonics decrease verv rapidly. The difference between these is vocal cord tension beleive. The trick is to vary the pitch and limit the loudness independantly of vocal cord tension.</description>
     </item>
     
     <item>
       <title>Falsetto</title>
-      <link>https://speechschool.github.io/pedagogy/falsetto/</link>
+      <link>https://speechschool.github.io/speechschool.tech/pedagogy/falsetto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/pedagogy/falsetto/</guid>
+      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/falsetto/</guid>
       <description>In falsetto the vocal cord ligaments remain unmoved and only the mucosa layer bounces. To produce a clean falsetto the entire vocal cord has to come into contact. But this is difficult and untraind falsetto singers leave a gap in the middle wher air continuously escapes.
        </description>
     </item>
     
     <item>
       <title>Head Voice</title>
-      <link>https://speechschool.github.io/pedagogy/head-voice/</link>
+      <link>https://speechschool.github.io/speechschool.tech/pedagogy/head-voice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/pedagogy/head-voice/</guid>
+      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/head-voice/</guid>
       <description>Cheast voice is where the vocal cords make the same motion as they do in normal speaking. Likewise with falsetto, the vocal cords make a different motion in head voice leading to a different sound being produced. What this motion is wikipedia doesn&amp;rsquo;t say. However, it results in a sound where more energy is distributed to the higher harmonics compared to headvoice.
   </description>
     </item>
     
     <item>
       <title>Breathy Voice</title>
-      <link>https://speechschool.github.io/pedagogy/breathy-voice/</link>
+      <link>https://speechschool.github.io/speechschool.tech/pedagogy/breathy-voice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/pedagogy/breathy-voice/</guid>
+      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/breathy-voice/</guid>
       <description>In breathy voice the vocal cords are held further apart with lower tension than normal. Breathy voice is when the vocal cords do not make full closure as they their mobile ends are not brought fully together. This allows more air to escape and can be heard as a softer sound, with more random noise.</description>
     </item>
     
     <item>
       <title>Belting</title>
-      <link>https://speechschool.github.io/pedagogy/belting/</link>
+      <link>https://speechschool.github.io/speechschool.tech/pedagogy/belting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/pedagogy/belting/</guid>
+      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/belting/</guid>
       <description>Belting is where one carries the chest voice above the natural transition to the head voice. However, this nescessitates singing with intensity. For an example, look to Brendon Urie who belts most of his songs.
 Hack    Thinking of the pajoritive &amp;ldquo;Woo Girls&amp;rdquo;, you can get an idea of the upper limit of your pitch for your chest voice by shouting WOO! The pitch should peek in the middle of the woo.</description>
     </item>
     
     <item>
       <title>Timbre</title>
-      <link>https://speechschool.github.io/pedagogy/timbre/</link>
+      <link>https://speechschool.github.io/speechschool.tech/pedagogy/timbre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.github.io/pedagogy/timbre/</guid>
-      <description>Timbre describes the quality of the sound source. The spectral slice, the realitive sizes of the the harmonics, the pointiness of the harmonic spikes, the amount of interifirance at present between the harmonics. quality of the spectral slope, the cleaness. Shape of the harmonic spikes.
+      <guid>https://speechschool.github.io/speechschool.tech/pedagogy/timbre/</guid>
+      <description>Timbre describes the quality of the sound source which is best visualized by the shape of the spectral slice. Good timbre will have a specral slice where the harmonics are balance in size, smooth, and are shaped nicely.
   Slice of the i (Fleece) vowel below       </description>
     </item>
     
