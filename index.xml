@@ -17,16 +17,16 @@ Thus when diagnosing our voices, we must determine whether the problem is with t
     
     <item>
       <title>Wood vowel model</title>
-      <link>https://speechschool.tech/Phonetics/wood-vowel-model/</link>
+      <link>https://speechschool.tech/phonetics/wood-vowel-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.tech/Phonetics/wood-vowel-model/</guid>
+      <guid>https://speechschool.tech/phonetics/wood-vowel-model/</guid>
       <description>Dimensions  Constriction Location Tense-Lax Open-Closed Round-Spread       Vowels are produced by the shape of the vocal tract (see Vowel Shaping). To describe the shape of the vocal tract of a given vowel we will use Sidney Wood&amp;rsquo;s vowel model.
 Dimensions    Constriction Location    The most fundamental dimension of the wood vowel model is location where the vocal tract is constricted.</description>
     </item>
     
     <item>
-      <title>Frequencies</title>
+      <title>Harmonics</title>
       <link>https://speechschool.tech/spectrograms/harmonics/</link>
       <pubDate>Sat, 15 May 2021 11:23:50 +1200</pubDate>
       
@@ -38,10 +38,10 @@ Time is on the x-axis and frequency is on the y-axis. The color of a pixel shows
     
     <item>
       <title>IPA</title>
-      <link>https://speechschool.tech/Phonetics/IPA/</link>
+      <link>https://speechschool.tech/phonetics/IPA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.tech/Phonetics/IPA/</guid>
+      <guid>https://speechschool.tech/phonetics/IPA/</guid>
       <description>Historical Vowel Model Wood Vowel Model  Diphthongs   Constants  Stop Constants Nasal Stop Fricatives Affricates Approximant Lateral approximant Voiceless Vowel   Complete Table     There are 19 vowels in the English language but only six letters are used to represent them. This means there is a many-to-one correspondence between vowels and letters, that is different vowels correspond to the same letter.</description>
     </item>
     
@@ -80,10 +80,10 @@ Time is on the x-axis and frequency is on the y-axis. The color of a pixel shows
     
     <item>
       <title>Reading Spectrograms</title>
-      <link>https://speechschool.tech/Phonetics/reading-spectrograms/</link>
+      <link>https://speechschool.tech/phonetics/reading-spectrograms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.tech/Phonetics/reading-spectrograms/</guid>
+      <guid>https://speechschool.tech/phonetics/reading-spectrograms/</guid>
       <description>Vowels  Palatal and Velar Vowels i Vowel ɛ Vowel u Vowel   Pharyngeal Vowels  ɔ Vowel ɑ Vowel æ Vowel   ɜ Vowel Diphthongs Constants  Voiceless Fricatives Voiceless Stop Constants + Voiceless Affricates Nasals + Voiced Fricatives Approximants       Most of the work of reading live spectrograms is done by knowing what sequence of phonemes should appear by listening to the audio.</description>
     </item>
     
@@ -234,8 +234,8 @@ Frequency Response    We want to get a microphone with a flat frequency response
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://speechschool.tech/methodology/transcription-checker/</guid>
-      <description>Phoneme segmentation is the ability to derive the correct sequence of sounds that make up a word. It is a critical specialized ability to develop if you want to be considered intelligent. Many high IQ people will develop it naturally and it allows them to distinguish themselves from the rest.
-However, those with a non-verbal IQ tilt will need help to develope phonological awareness.
+      <description>Phoneme segmentation is the ability to derive the correct sequence of sounds that make up a word. It is a critical specialized ability to develop if you want to be considered intelligent. Most high IQ people will develop it naturally and it allows them to distinguish themselves from the rest.
+However, those with a non-verbal IQ tilt will need help to develop phonological awareness.
 We will train phoneme segmentation we by typing out a phonetic transcription of a text, with the computer checking accuracy as in a speed typing test.</description>
     </item>
     
