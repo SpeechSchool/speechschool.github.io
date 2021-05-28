@@ -13,7 +13,7 @@
       <guid>https://speechschool.tech/equipment/desk/</guid>
       <description>You will need to stand when you sing, and should be standing when practicing speaking.
 Standing Desk    You will need a standing desk. I have a makeshift standing desk made out of a small writing desk that stands on a table.
-Physically shifting a computer monitor between your sitting and standing desk is tiresome. I recomend buying a second a second computer monitor.
+Physically shifting a computer monitor between your sitting and standing desk is tiresome. I recommend buying a second a second computer monitor.
 Underdesk Treadmill    I practice singing while walking on a treadmill.</description>
     </item>
     
@@ -23,8 +23,9 @@ Underdesk Treadmill    I practice singing while walking on a treadmill.</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://speechschool.tech/equipment/microphone/</guid>
-      <description>Microphone    Proximity Effect    For most microphones as you move the sound source closer the lower frequiences will be amplified, the recorded sound will become darker. This is unsuitable for our purposes as we want our microphone recording to be comparable to professionally recorded audio.
-Condenser microphones have less proximity effect. Omnidirectional microphones have lower proxmity effect. Omnidirectional condenser microphones have virtually no proximity effect.</description>
+      <description>Proximity Effect    For most microphones as you move the sound source closer the lower frequencies will be amplified, the recorded sound will become darker. This is unsuitable for our purposes as we want our microphone recording to be comparable to professionally recorded audio.
+Condenser microphones have less proximity effect. Omnidirectional microphones have lower proximity effect. Omnidirectional condenser microphones have virtually no proximity effect.
+Frequency Response    We want to get a microphone with a flat frequency response.</description>
     </item>
     
   </channel>
