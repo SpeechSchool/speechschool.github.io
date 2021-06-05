@@ -49,10 +49,10 @@
     <loc>https://speechschool.tech/philosophy/</loc>
     <lastmod>2021-05-28T17:29:42+12:00</lastmod>
   </url><url>
-    <loc>https://speechschool.tech/methodology/accent-checker/</loc>
+    <loc>https://speechschool.tech/pedagogy/head-voice/</loc>
     <lastmod>2021-05-28T17:29:42+12:00</lastmod>
   </url><url>
-    <loc>https://speechschool.tech/pedagogy/head-voice/</loc>
+    <loc>https://speechschool.tech/methodology/accent-checker/</loc>
     <lastmod>2021-05-28T17:29:42+12:00</lastmod>
   </url><url>
     <loc>https://speechschool.tech/pedagogy/breathy-voice/</loc>
@@ -60,6 +60,8 @@
   </url><url>
     <loc>https://speechschool.tech/pedagogy/belting/</loc>
     <lastmod>2021-05-28T17:29:42+12:00</lastmod>
+  </url><url>
+    <loc>https://speechschool.tech/pedagogy/vibrato/</loc>
   </url><url>
     <loc>https://speechschool.tech/equipment/desk/</loc>
     <lastmod>2021-05-28T17:29:42+12:00</lastmod>
@@ -93,12 +95,11 @@
     <loc>https://speechschool.tech/equipment/microphone/</loc>
     <lastmod>2021-05-28T17:29:42+12:00</lastmod>
   </url><url>
+    <loc>https://speechschool.tech/methodology/segmentation-trainer/</loc>
+  </url><url>
     <loc>https://speechschool.tech/tags/</loc>
   </url><url>
     <loc>https://speechschool.tech/pedagogy/timbre/</loc>
     <lastmod>2021-05-28T17:29:42+12:00</lastmod>
-  </url><url>
-    <loc>https://speechschool.tech/methodology/transcription-checker/</loc>
-    <lastmod>2021-05-27T15:32:23+12:00</lastmod>
   </url>
 </urlset>

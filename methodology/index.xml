@@ -26,7 +26,7 @@ We will need to listen back to recordings of ourselves, because we do not hear o
     </item>
     
     <item>
-      <title>Accent Checker</title>
+      <title>Pronunciation Checker</title>
       <link>https://speechschool.tech/methodology/accent-checker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -35,14 +35,13 @@ We will need to listen back to recordings of ourselves, because we do not hear o
     </item>
     
     <item>
-      <title>Transcription Checker</title>
-      <link>https://speechschool.tech/methodology/transcription-checker/</link>
+      <title>Segmentation Trainer</title>
+      <link>https://speechschool.tech/methodology/segmentation-trainer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://speechschool.tech/methodology/transcription-checker/</guid>
-      <description>Phoneme segmentation is the ability to derive the correct sequence of sounds that make up a word. It is a critical specialized ability to develop if you want to be considered intelligent. Most high IQ people will develop it naturally and it allows them to distinguish themselves from the rest.
-However, those with a non-verbal IQ tilt will need help to develop phonological awareness.
-We will train phoneme segmentation we by typing out a phonetic transcription of a text, with the computer checking accuracy as in a speed typing test.</description>
+      <guid>https://speechschool.tech/methodology/segmentation-trainer/</guid>
+      <description>When you mispronounce a word can you break what you said down into atomic sounds can compare it to the correct pronounciation segmented into atomic sounds? If not you need to work on your phonetic segmentation ability.
+Phoneme segmentation is the ability to derive the correct sequence of sounds that make up a word. It is a critical specialized ability to develop if you want to be considered intelligent. English&amp;rsquo;s spelling system is not phonetic and so does not force you to develop this ability.</description>
     </item>
     
   </channel>
