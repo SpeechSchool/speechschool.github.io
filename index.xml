@@ -42,7 +42,7 @@ Time is on the x-axis and frequency is on the y-axis. The color of a pixel shows
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://speechschool.tech/phonetics/IPA/</guid>
-      <description>Historical Vowel Model Wood Vowel Model  Diphthongs   Constants  Stop Constants Nasal Stop Fricatives Affricates Approximant Lateral approximant Voiceless Vowel   Complete Table     There are 19 vowels in the English language but only six letters are used to represent them. This means there is a many-to-one correspondence between vowels and letters, that is different vowels correspond to the same letter.</description>
+      <description>Historical Vowel Model Wood Vowel Model  Diphthongs   Consonants  Stop Consonants Nasal Stop Fricatives Affricates Approximant Lateral approximant Voiceless Vowel   Complete Table     There are 19 vowels in the English language but only six letters are used to represent them. This means there is a many-to-one correspondence between vowels and letters, that is different vowels correspond to the same letter.</description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@ Time is on the x-axis and frequency is on the y-axis. The color of a pixel shows
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://speechschool.tech/phonetics/reading-spectrograms/</guid>
-      <description>Vowels  Palatal and Velar Vowels i Vowel ɛ Vowel u Vowel   Pharyngeal Vowels  ɔ Vowel ɑ Vowel æ Vowel   ɜ Vowel Diphthongs Constants  Voiceless Fricatives Voiceless Stop Constants + Voiceless Affricates Nasals + Voiced Fricatives Approximants       Most of the work of reading live spectrograms is done by knowing what sequence of phonemes should appear by listening to the audio.</description>
+      <description>Vowels  Palatal and Velar Vowels i Vowel ɛ Vowel u Vowel   Pharyngeal Vowels  ɔ Vowel ɑ Vowel æ Vowel   ɜ Vowel Diphthongs Consonants  Voiceless Fricatives Voiceless Stop Consonant + Voiceless Affricates Nasals + Voiced Fricatives Approximants       Most of the work of reading live spectrograms is done by knowing what sequence of phonemes should appear by listening to the audio.</description>
     </item>
     
     <item>
@@ -176,7 +176,7 @@ Hack    Thinking of the pejorative &amp;ldquo;Woo Girls&amp;rdquo;, you can get 
     </item>
     
     <item>
-      <title>Belting</title>
+      <title>Vibrato</title>
       <link>https://speechschool.tech/pedagogy/vibrato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
